@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1748-sum-of-unique-elements) |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 ## Hash Table
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1748-sum-of-unique-elements) |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 ## Counting
 |  |
 | ------- |
