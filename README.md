@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1550-three-consecutive-odds) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1748-sum-of-unique-elements) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0540-single-element-in-a-sorted-array) |
 ## Math
 |  |
 | ------- |
