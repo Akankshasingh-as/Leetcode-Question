@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1550-three-consecutive-odds) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0001-two-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1748-sum-of-unique-elements) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
