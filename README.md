@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0345-reverse-vowels-of-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0345-reverse-vowels-of-a-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/2114-maximum-number-of-words-found-in-sentences) |
