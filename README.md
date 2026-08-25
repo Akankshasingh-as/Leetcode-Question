@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3477-fruits-into-baskets-ii](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3477-fruits-into-baskets-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1796-second-largest-digit-in-a-string) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Counting
 |  |
 | ------- |
