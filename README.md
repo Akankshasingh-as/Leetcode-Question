@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0392-is-subsequence) |
 | [2460-apply-operations-to-an-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1796-second-largest-digit-in-a-string) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0392-is-subsequence) |
 ## Counting Sort
 |  |
 | ------- |
