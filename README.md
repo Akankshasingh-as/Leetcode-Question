@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Number Theory
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/2269-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->
