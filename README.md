@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2460-apply-operations-to-an-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/2460-apply-operations-to-an-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3477-fruits-into-baskets-ii](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3477-fruits-into-baskets-ii) |
@@ -45,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1796-second-largest-digit-in-a-string) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Counting
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1748-sum-of-unique-elements) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
