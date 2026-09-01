@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1796-second-largest-digit-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Counting
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1748-sum-of-unique-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0011-container-with-most-water) |
 | [0860-lemonade-change](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1903-largest-odd-number-in-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Interactive
 |  |
 | ------- |
