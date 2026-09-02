@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0389-find-the-difference) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0125-valid-palindrome) |
@@ -221,5 +223,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/2269-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->
