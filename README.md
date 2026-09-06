@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0540-single-element-in-a-sorted-array) |
+| [0598-range-addition-ii](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0860-lemonade-change) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0263-ugly-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0507-perfect-number](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0507-perfect-number) |
+| [0598-range-addition-ii](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1903-largest-odd-number-in-string) |
