@@ -7,6 +7,8 @@ class Solution {
         int r = 0;
         int w  = 2*k + 1;
         long sum = 0;
+        if(k==0)
+        return nums;
         if(w>n){
             return arr;
         }
