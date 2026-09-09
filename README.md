@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1748-sum-of-unique-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2090-k-radius-subarray-averages](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/2090-k-radius-subarray-averages) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2460-apply-operations-to-an-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/2460-apply-operations-to-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2090-k-radius-subarray-averages](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/2090-k-radius-subarray-averages) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Polygons
 |  |
