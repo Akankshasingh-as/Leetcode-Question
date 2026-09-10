@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1748-sum-of-unique-elements) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0567-permutation-in-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1796-second-largest-digit-in-a-string) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
