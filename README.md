@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0860-lemonade-change) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1550-three-consecutive-odds) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0392-is-subsequence) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Counting Sort
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/2090-k-radius-subarray-averages) |
