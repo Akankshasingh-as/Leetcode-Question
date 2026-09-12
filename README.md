@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0598-range-addition-ii](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0860-lemonade-change) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
