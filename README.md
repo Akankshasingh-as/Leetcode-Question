@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Divide and Conquer
 |  |
@@ -288,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3024-type-of-triangle) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
