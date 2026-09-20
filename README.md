@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/2460-apply-operations-to-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3477-fruits-into-baskets-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3498-reverse-degree-of-a-string) |
 ## Ordered Set
 |  |
 | ------- |
