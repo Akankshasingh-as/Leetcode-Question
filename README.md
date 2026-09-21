@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1668-maximum-repeating-substring](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1668-maximum-repeating-substring) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1903-largest-odd-number-in-string) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1668-maximum-repeating-substring](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1668-maximum-repeating-substring) |
 ## Counting Sort
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1668-maximum-repeating-substring](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1668-maximum-repeating-substring) |
 ## Z Algorithm
 |  |
 | ------- |
