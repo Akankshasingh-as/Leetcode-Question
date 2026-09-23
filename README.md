@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1652-defuse-the-bomb](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1652-defuse-the-bomb) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1748-sum-of-unique-elements) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3477-fruits-into-baskets-ii](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3477-fruits-into-baskets-ii) |
 ## Math
 |  |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3904-smallest-stable-index-ii) |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1652-defuse-the-bomb) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/2090-k-radius-subarray-averages) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/2269-find-the-k-beauty-of-a-number) |
