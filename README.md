@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0598-range-addition-ii](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0598-range-addition-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1004-max-consecutive-ones-iii) |
@@ -310,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0401-binary-watch) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
