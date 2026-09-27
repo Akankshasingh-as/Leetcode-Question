@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0263-ugly-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -321,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0303-range-sum-query-immutable) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
