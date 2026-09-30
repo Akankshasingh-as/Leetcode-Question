@@ -266,12 +266,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
