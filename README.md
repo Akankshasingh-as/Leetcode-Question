@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0190-reverse-bits) |
+| [0338-counting-bits](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0405-convert-a-number-to-hexadecimal) |
