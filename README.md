@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-fruits-into-baskets-ii](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3477-fruits-into-baskets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3904-smallest-stable-index-ii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3024-type-of-triangle) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Segment Tree
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1903-largest-odd-number-in-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Interactive
 |  |
 | ------- |
