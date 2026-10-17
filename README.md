@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0326-power-of-three) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0507-perfect-number](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0598-range-addition-ii) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0326-power-of-three) |
 ## Stack
 |  |
 | ------- |
