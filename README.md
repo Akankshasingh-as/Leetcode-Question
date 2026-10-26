@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
@@ -388,4 +390,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1254-number-of-closed-islands) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
