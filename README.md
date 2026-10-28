@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0234-palindrome-linked-list) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0876-middle-of-the-linked-list) |
