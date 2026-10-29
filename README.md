@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0160-intersection-of-two-linked-lists) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0376-wiggle-subsequence) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -414,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0141-linked-list-cycle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
