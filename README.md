@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0263-ugly-number) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0376-wiggle-subsequence) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
