@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0217-contains-duplicate) |
@@ -422,18 +423,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Akankshasingh-as/Leetcode-Question/tree/master/1254-number-of-closed-islands) |
 ## Tree
 |  |
